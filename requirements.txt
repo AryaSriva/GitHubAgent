@@ -1,0 +1,8 @@
+openai
+langchain
+langchain-openai
+PyGithub
+gitpython
+typer
+rich
+python-dotenv
