@@ -26,5 +26,3 @@ A CLI-based AI agent that integrates with the GitHub API to audit, sync, and man
   - Designed for extensibility into JSON-based reporting
 
 ---
-
-## 🧠 Architecture
